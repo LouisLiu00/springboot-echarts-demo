@@ -1,0 +1,88 @@
+server:
+  ##端口号
+  port: 4000
+  servlet:
+    ## API前缀
+    context-path: /api
+  ##session过期时间
+  session:
+    timeout: 30
+  ##tomcat字符集
+  tomcat:
+    uri-encoding: UTF-8
+    min-spare-threads: 10
+    max-threads: 20
+    connection-timeout: 5000
+
+spring:
+  ## 默认激活环境
+  profiles:
+    active: dev
+  ## 应用名称
+  application:
+    name: springboot-echarts-demo-server
+  ## Security安全配置，排除安全登录
+  autoconfigure:
+    exclude[0]: org.springframework.boot.autoconfigure.security.servlet.SecurityAutoConfiguration
+  ## 因为Springfox使用的路径匹配是基于AntPathMatcher的，而Spring Boot 2.6.X使用的是PathPatternMatche
+  mvc:
+    pathmatch:
+      matching-strategy: ANT_PATH_MATCHER
+  ## 文件大小配置
+  servlet:
+    multipart:
+      max-file-size: 100MB
+      max-request-size: 100MB
+  ##thymeleaf模板
+  thymeleaf:
+    encoding: utf-8
+    content-type: text/html; charset=utf-8
+    ##关闭缓存
+    cache: false
+    mode: HTML
+    ##设置前缀，默认路径就是当前main/resources/templates
+    prefix: classpath:/templates/emails/
+    ##设置后缀
+    suffix: .html
+
+## 日志配置
+logging:
+  config: classpath:logback-spring.xml
+  level:
+    ## 配置控制台输出为TRACE
+    org:
+      springframework:
+        web: TRACE
+
+---
+# 开发环境配置
+spring:
+  ## 环境
+  config:
+    activate:
+      on-profile: dev
+phantomjs:
+  url: http://127.0.0.1:9090
+
+---
+# 测试环境配置
+spring:
+  ## 环境
+  config:
+    activate:
+      on-profile: test
+phantomjs:
+  url: https://my.domain.com:9090
+
+---
+# 生产环境配置
+spring:
+  ## 环境
+  config:
+    activate:
+      on-profile: prod
+iobots:
+  domain: https://iobots.pro
+phantomjs:
+  url: https://my.domain.com:9090
+

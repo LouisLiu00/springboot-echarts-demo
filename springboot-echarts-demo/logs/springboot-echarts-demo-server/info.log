@@ -1,0 +1,207 @@
+[2022-07-10 17:09:28.651] [INFO ] [main] [louis.echarts.LouisApplication] [logStarting] [55] - Starting LouisApplication using Java 1.8.0_221 on LAPTOP-Louis with PID 10564 (D:\Project\springboot-echarts-demo\springboot-echarts-demo\target\classes started by Louis in D:\Project\springboot-echarts-demo\springboot-echarts-demo)
+[2022-07-10 17:09:28.654] [INFO ] [main] [louis.echarts.LouisApplication] [logStartupProfileInfo] [663] - The following profiles are active: dev
+[2022-07-10 17:09:29.849] [INFO ] [main] [o.s.boot.web.embedded.tomcat.TomcatWebServer] [initialize] [108] - Tomcat initialized with port(s): 4000 (http)
+[2022-07-10 17:09:29.859] [INFO ] [main] [org.apache.coyote.http11.Http11NioProtocol] [log] [173] - Initializing ProtocolHandler ["http-nio-4000"]
+[2022-07-10 17:09:29.862] [INFO ] [main] [org.apache.catalina.core.StandardService] [log] [173] - Starting service [Tomcat]
+[2022-07-10 17:09:29.863] [INFO ] [main] [org.apache.catalina.core.StandardEngine] [log] [173] - Starting Servlet engine: [Apache Tomcat/9.0.54]
+[2022-07-10 17:09:29.931] [INFO ] [main] [o.a.c.c.ContainerBase.[Tomcat].[localhost].[/api]] [log] [173] - Initializing Spring embedded WebApplicationContext
+[2022-07-10 17:09:29.931] [INFO ] [main] [o.s.b.w.s.c.ServletWebServerApplicationContext] [prepareWebApplicationContext] [290] - Root WebApplicationContext: initialization completed in 1216 ms
+[2022-07-10 17:09:30.201] [INFO ] [main] [org.apache.coyote.http11.Http11NioProtocol] [log] [173] - Starting ProtocolHandler ["http-nio-4000"]
+[2022-07-10 17:09:30.218] [INFO ] [main] [o.s.boot.web.embedded.tomcat.TomcatWebServer] [start] [220] - Tomcat started on port(s): 4000 (http) with context path '/api'
+[2022-07-10 17:09:30.231] [INFO ] [main] [louis.echarts.LouisApplication] [logStarted] [61] - Started LouisApplication in 2.648 seconds (JVM running for 3.942)
+[2022-07-10 17:32:24.468] [INFO ] [main] [louis.echarts.LouisApplication] [logStarting] [55] - Starting LouisApplication using Java 1.8.0_221 on LAPTOP-Louis with PID 10108 (D:\Project\springboot-echarts-demo\springboot-echarts-demo\target\classes started by Louis in D:\Project\springboot-echarts-demo\springboot-echarts-demo)
+[2022-07-10 17:32:24.566] [INFO ] [main] [louis.echarts.LouisApplication] [logStartupProfileInfo] [663] - The following profiles are active: dev
+[2022-07-10 17:32:25.197] [INFO ] [main] [o.s.boot.web.embedded.tomcat.TomcatWebServer] [initialize] [108] - Tomcat initialized with port(s): 4000 (http)
+[2022-07-10 17:32:25.205] [INFO ] [main] [org.apache.coyote.http11.Http11NioProtocol] [log] [173] - Initializing ProtocolHandler ["http-nio-4000"]
+[2022-07-10 17:32:25.205] [INFO ] [main] [org.apache.catalina.core.StandardService] [log] [173] - Starting service [Tomcat]
+[2022-07-10 17:32:25.205] [INFO ] [main] [org.apache.catalina.core.StandardEngine] [log] [173] - Starting Servlet engine: [Apache Tomcat/9.0.54]
+[2022-07-10 17:32:25.263] [INFO ] [main] [o.a.c.c.ContainerBase.[Tomcat].[localhost].[/api]] [log] [173] - Initializing Spring embedded WebApplicationContext
+[2022-07-10 17:32:25.263] [INFO ] [main] [o.s.b.w.s.c.ServletWebServerApplicationContext] [prepareWebApplicationContext] [290] - Root WebApplicationContext: initialization completed in 645 ms
+[2022-07-10 17:32:25.301] [INFO ] [main] [org.apache.catalina.core.StandardService] [log] [173] - Stopping service [Tomcat]
+[2022-07-10 17:32:25.309] [INFO ] [main] [o.s.b.a.l.ConditionEvaluationReportLoggingListener] [logMessage] [136] - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+[2022-07-10 17:33:06.264] [INFO ] [main] [louis.echarts.LouisApplication] [logStarting] [55] - Starting LouisApplication using Java 1.8.0_221 on LAPTOP-Louis with PID 568 (D:\Project\springboot-echarts-demo\springboot-echarts-demo\target\classes started by Louis in D:\Project\springboot-echarts-demo\springboot-echarts-demo)
+[2022-07-10 17:33:06.267] [INFO ] [main] [louis.echarts.LouisApplication] [logStartupProfileInfo] [663] - The following profiles are active: dev
+[2022-07-10 17:33:06.935] [INFO ] [main] [o.s.boot.web.embedded.tomcat.TomcatWebServer] [initialize] [108] - Tomcat initialized with port(s): 4000 (http)
+[2022-07-10 17:33:06.942] [INFO ] [main] [org.apache.coyote.http11.Http11NioProtocol] [log] [173] - Initializing ProtocolHandler ["http-nio-4000"]
+[2022-07-10 17:33:06.942] [INFO ] [main] [org.apache.catalina.core.StandardService] [log] [173] - Starting service [Tomcat]
+[2022-07-10 17:33:06.943] [INFO ] [main] [org.apache.catalina.core.StandardEngine] [log] [173] - Starting Servlet engine: [Apache Tomcat/9.0.54]
+[2022-07-10 17:33:06.998] [INFO ] [main] [o.a.c.c.ContainerBase.[Tomcat].[localhost].[/api]] [log] [173] - Initializing Spring embedded WebApplicationContext
+[2022-07-10 17:33:06.998] [INFO ] [main] [o.s.b.w.s.c.ServletWebServerApplicationContext] [prepareWebApplicationContext] [290] - Root WebApplicationContext: initialization completed in 695 ms
+[2022-07-10 17:33:07.253] [INFO ] [main] [org.apache.coyote.http11.Http11NioProtocol] [log] [173] - Starting ProtocolHandler ["http-nio-4000"]
+[2022-07-10 17:33:07.378] [INFO ] [main] [o.s.boot.web.embedded.tomcat.TomcatWebServer] [start] [220] - Tomcat started on port(s): 4000 (http) with context path '/api'
+[2022-07-10 17:33:07.387] [INFO ] [main] [louis.echarts.LouisApplication] [logStarted] [61] - Started LouisApplication in 1.585 seconds (JVM running for 2.209)
+[2022-07-10 17:33:07.388] [INFO ] [main] [louis.echarts.config.ApplicationRunnerConfig] [run] [25] - 启动成功，万事顺遂！
+[2022-07-10 17:33:36.823] [INFO ] [SpringApplicationShutdownHook] [louis.echarts.config.ApplicationRunnerConfig] [preDestroy] [31] - 应用停止，欢迎下次使用！
+[2022-07-10 17:33:46.109] [INFO ] [main] [louis.echarts.LouisApplication] [logStarting] [55] - Starting LouisApplication using Java 1.8.0_221 on LAPTOP-Louis with PID 9584 (D:\Project\springboot-echarts-demo\springboot-echarts-demo\target\classes started by Louis in D:\Project\springboot-echarts-demo\springboot-echarts-demo)
+[2022-07-10 17:33:46.110] [INFO ] [main] [louis.echarts.LouisApplication] [logStartupProfileInfo] [663] - The following profiles are active: dev
+[2022-07-10 17:33:46.768] [INFO ] [main] [o.s.boot.web.embedded.tomcat.TomcatWebServer] [initialize] [108] - Tomcat initialized with port(s): 4000 (http)
+[2022-07-10 17:33:46.775] [INFO ] [main] [org.apache.coyote.http11.Http11NioProtocol] [log] [173] - Initializing ProtocolHandler ["http-nio-4000"]
+[2022-07-10 17:33:46.776] [INFO ] [main] [org.apache.catalina.core.StandardService] [log] [173] - Starting service [Tomcat]
+[2022-07-10 17:33:46.776] [INFO ] [main] [org.apache.catalina.core.StandardEngine] [log] [173] - Starting Servlet engine: [Apache Tomcat/9.0.54]
+[2022-07-10 17:33:46.834] [INFO ] [main] [o.a.c.c.ContainerBase.[Tomcat].[localhost].[/api]] [log] [173] - Initializing Spring embedded WebApplicationContext
+[2022-07-10 17:33:46.834] [INFO ] [main] [o.s.b.w.s.c.ServletWebServerApplicationContext] [prepareWebApplicationContext] [290] - Root WebApplicationContext: initialization completed in 695 ms
+[2022-07-10 17:33:47.079] [INFO ] [main] [org.apache.coyote.http11.Http11NioProtocol] [log] [173] - Starting ProtocolHandler ["http-nio-4000"]
+[2022-07-10 17:33:47.100] [INFO ] [main] [o.s.boot.web.embedded.tomcat.TomcatWebServer] [start] [220] - Tomcat started on port(s): 4000 (http) with context path '/api'
+[2022-07-10 17:33:47.106] [INFO ] [main] [louis.echarts.LouisApplication] [logStarted] [61] - Started LouisApplication in 1.383 seconds (JVM running for 1.97)
+[2022-07-10 17:33:47.108] [INFO ] [main] [louis.echarts.config.ApplicationRunnerConfig] [run] [25] - 启动成功，万事顺遂！
+[2022-07-10 17:34:50.472] [INFO ] [SpringApplicationShutdownHook] [louis.echarts.config.ApplicationRunnerConfig] [preDestroy] [31] - 应用停止，欢迎下次使用！
+[2022-07-10 17:34:59.869] [INFO ] [main] [louis.echarts.LouisApplication] [logStarting] [55] - Starting LouisApplication using Java 1.8.0_221 on LAPTOP-Louis with PID 5584 (D:\Project\springboot-echarts-demo\springboot-echarts-demo\target\classes started by Louis in D:\Project\springboot-echarts-demo\springboot-echarts-demo)
+[2022-07-10 17:34:59.871] [INFO ] [main] [louis.echarts.LouisApplication] [logStartupProfileInfo] [663] - The following profiles are active: dev
+[2022-07-10 17:35:00.618] [INFO ] [main] [o.s.boot.web.embedded.tomcat.TomcatWebServer] [initialize] [108] - Tomcat initialized with port(s): 4000 (http)
+[2022-07-10 17:35:00.626] [INFO ] [main] [org.apache.coyote.http11.Http11NioProtocol] [log] [173] - Initializing ProtocolHandler ["http-nio-4000"]
+[2022-07-10 17:35:00.627] [INFO ] [main] [org.apache.catalina.core.StandardService] [log] [173] - Starting service [Tomcat]
+[2022-07-10 17:35:00.627] [INFO ] [main] [org.apache.catalina.core.StandardEngine] [log] [173] - Starting Servlet engine: [Apache Tomcat/9.0.54]
+[2022-07-10 17:35:00.689] [INFO ] [main] [o.a.c.c.ContainerBase.[Tomcat].[localhost].[/api]] [log] [173] - Initializing Spring embedded WebApplicationContext
+[2022-07-10 17:35:00.690] [INFO ] [main] [o.s.b.w.s.c.ServletWebServerApplicationContext] [prepareWebApplicationContext] [290] - Root WebApplicationContext: initialization completed in 775 ms
+[2022-07-10 17:35:00.999] [INFO ] [main] [org.apache.coyote.http11.Http11NioProtocol] [log] [173] - Starting ProtocolHandler ["http-nio-4000"]
+[2022-07-10 17:35:01.012] [INFO ] [main] [o.s.boot.web.embedded.tomcat.TomcatWebServer] [start] [220] - Tomcat started on port(s): 4000 (http) with context path '/api'
+[2022-07-10 17:35:01.020] [INFO ] [main] [louis.echarts.LouisApplication] [logStarted] [61] - Started LouisApplication in 1.623 seconds (JVM running for 3.433)
+[2022-07-10 17:35:01.021] [INFO ] [main] [louis.echarts.config.ApplicationRunnerConfig] [run] [25] - 启动成功，万事顺遂！
+[2022-07-10 17:37:08.388] [INFO ] [SpringApplicationShutdownHook] [louis.echarts.config.ApplicationRunnerConfig] [preDestroy] [31] - 应用停止，欢迎下次使用！
+[2022-07-10 17:40:02.204] [INFO ] [main] [louis.echarts.LouisApplication] [logStarting] [55] - Starting LouisApplication using Java 1.8.0_221 on LAPTOP-Louis with PID 14376 (D:\Project\springboot-echarts-demo\springboot-echarts-demo\target\classes started by Louis in D:\Project\springboot-echarts-demo\springboot-echarts-demo)
+[2022-07-10 17:40:02.221] [INFO ] [main] [louis.echarts.LouisApplication] [logStartupProfileInfo] [663] - The following profiles are active: dev
+[2022-07-10 17:40:03.625] [INFO ] [main] [o.s.boot.web.embedded.tomcat.TomcatWebServer] [initialize] [108] - Tomcat initialized with port(s): 4000 (http)
+[2022-07-10 17:40:03.640] [INFO ] [main] [org.apache.coyote.http11.Http11NioProtocol] [log] [173] - Initializing ProtocolHandler ["http-nio-4000"]
+[2022-07-10 17:40:03.641] [INFO ] [main] [org.apache.catalina.core.StandardService] [log] [173] - Starting service [Tomcat]
+[2022-07-10 17:40:03.641] [INFO ] [main] [org.apache.catalina.core.StandardEngine] [log] [173] - Starting Servlet engine: [Apache Tomcat/9.0.54]
+[2022-07-10 17:40:03.750] [INFO ] [main] [o.a.c.c.ContainerBase.[Tomcat].[localhost].[/api]] [log] [173] - Initializing Spring embedded WebApplicationContext
+[2022-07-10 17:40:03.751] [INFO ] [main] [o.s.b.w.s.c.ServletWebServerApplicationContext] [prepareWebApplicationContext] [290] - Root WebApplicationContext: initialization completed in 1404 ms
+[2022-07-10 17:40:04.286] [INFO ] [main] [org.apache.coyote.http11.Http11NioProtocol] [log] [173] - Starting ProtocolHandler ["http-nio-4000"]
+[2022-07-10 17:40:04.310] [INFO ] [main] [o.s.boot.web.embedded.tomcat.TomcatWebServer] [start] [220] - Tomcat started on port(s): 4000 (http) with context path '/api'
+[2022-07-10 17:40:04.322] [INFO ] [main] [louis.echarts.LouisApplication] [logStarted] [61] - Started LouisApplication in 3.242 seconds (JVM running for 5.16)
+[2022-07-10 17:40:04.325] [INFO ] [main] [louis.echarts.config.ApplicationRunnerConfig] [run] [25] - 启动成功，万事顺遂！
+[2022-07-10 17:40:04.621] [INFO ] [main] [louis.echarts.LouisApplication] [logStarting] [55] - Starting LouisApplication using Java 1.8.0_221 on LAPTOP-Louis with PID 3636 (D:\Project\springboot-echarts-demo\springboot-echarts-demo\target\classes started by Louis in D:\Project\springboot-echarts-demo\springboot-echarts-demo)
+[2022-07-10 17:40:04.625] [INFO ] [main] [louis.echarts.LouisApplication] [logStartupProfileInfo] [663] - The following profiles are active: dev
+[2022-07-10 17:40:05.615] [INFO ] [main] [o.s.boot.web.embedded.tomcat.TomcatWebServer] [initialize] [108] - Tomcat initialized with port(s): 4000 (http)
+[2022-07-10 17:40:05.622] [INFO ] [main] [org.apache.coyote.http11.Http11NioProtocol] [log] [173] - Initializing ProtocolHandler ["http-nio-4000"]
+[2022-07-10 17:40:05.623] [INFO ] [main] [org.apache.catalina.core.StandardService] [log] [173] - Starting service [Tomcat]
+[2022-07-10 17:40:05.624] [INFO ] [main] [org.apache.catalina.core.StandardEngine] [log] [173] - Starting Servlet engine: [Apache Tomcat/9.0.54]
+[2022-07-10 17:40:05.692] [INFO ] [main] [o.a.c.c.ContainerBase.[Tomcat].[localhost].[/api]] [log] [173] - Initializing Spring embedded WebApplicationContext
+[2022-07-10 17:40:05.693] [INFO ] [main] [o.s.b.w.s.c.ServletWebServerApplicationContext] [prepareWebApplicationContext] [290] - Root WebApplicationContext: initialization completed in 1013 ms
+[2022-07-10 17:40:06.224] [INFO ] [main] [org.apache.coyote.http11.Http11NioProtocol] [log] [173] - Starting ProtocolHandler ["http-nio-4000"]
+[2022-07-10 17:40:06.264] [INFO ] [main] [louis.echarts.config.ApplicationRunnerConfig] [preDestroy] [31] - 应用停止，欢迎下次使用！
+[2022-07-10 17:40:06.274] [INFO ] [main] [org.apache.coyote.http11.Http11NioProtocol] [log] [173] - Pausing ProtocolHandler ["http-nio-4000"]
+[2022-07-10 17:40:06.274] [INFO ] [main] [org.apache.catalina.core.StandardService] [log] [173] - Stopping service [Tomcat]
+[2022-07-10 17:40:06.293] [INFO ] [main] [org.apache.coyote.http11.Http11NioProtocol] [log] [173] - Stopping ProtocolHandler ["http-nio-4000"]
+[2022-07-10 17:40:06.294] [INFO ] [main] [org.apache.coyote.http11.Http11NioProtocol] [log] [173] - Destroying ProtocolHandler ["http-nio-4000"]
+[2022-07-10 17:40:06.352] [INFO ] [main] [o.s.b.a.l.ConditionEvaluationReportLoggingListener] [logMessage] [136] - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+[2022-07-10 17:40:20.524] [INFO ] [main] [louis.echarts.LouisApplication] [logStarting] [55] - Starting LouisApplication using Java 1.8.0_221 on LAPTOP-Louis with PID 7076 (D:\Project\springboot-echarts-demo\springboot-echarts-demo\target\classes started by Louis in D:\Project\springboot-echarts-demo\springboot-echarts-demo)
+[2022-07-10 17:40:20.526] [INFO ] [main] [louis.echarts.LouisApplication] [logStartupProfileInfo] [663] - The following profiles are active: dev
+[2022-07-10 17:40:21.365] [INFO ] [main] [o.s.boot.web.embedded.tomcat.TomcatWebServer] [initialize] [108] - Tomcat initialized with port(s): 4000 (http)
+[2022-07-10 17:40:21.373] [INFO ] [main] [org.apache.coyote.http11.Http11NioProtocol] [log] [173] - Initializing ProtocolHandler ["http-nio-4000"]
+[2022-07-10 17:40:21.373] [INFO ] [main] [org.apache.catalina.core.StandardService] [log] [173] - Starting service [Tomcat]
+[2022-07-10 17:40:21.374] [INFO ] [main] [org.apache.catalina.core.StandardEngine] [log] [173] - Starting Servlet engine: [Apache Tomcat/9.0.54]
+[2022-07-10 17:40:21.438] [INFO ] [main] [o.a.c.c.ContainerBase.[Tomcat].[localhost].[/api]] [log] [173] - Initializing Spring embedded WebApplicationContext
+[2022-07-10 17:40:21.439] [INFO ] [main] [o.s.b.w.s.c.ServletWebServerApplicationContext] [prepareWebApplicationContext] [290] - Root WebApplicationContext: initialization completed in 853 ms
+[2022-07-10 17:40:21.716] [INFO ] [main] [org.apache.coyote.http11.Http11NioProtocol] [log] [173] - Starting ProtocolHandler ["http-nio-4000"]
+[2022-07-10 17:40:21.729] [INFO ] [main] [o.s.boot.web.embedded.tomcat.TomcatWebServer] [start] [220] - Tomcat started on port(s): 4000 (http) with context path '/api'
+[2022-07-10 17:40:21.746] [INFO ] [main] [louis.echarts.LouisApplication] [logStarted] [61] - Started LouisApplication in 1.655 seconds (JVM running for 2.332)
+[2022-07-10 17:40:21.748] [INFO ] [main] [louis.echarts.config.ApplicationRunnerConfig] [run] [25] - 启动成功，万事顺遂！
+[2022-07-10 17:41:44.125] [INFO ] [SpringApplicationShutdownHook] [louis.echarts.config.ApplicationRunnerConfig] [preDestroy] [31] - 应用停止，欢迎下次使用！
+[2022-07-10 17:42:01.879] [INFO ] [main] [louis.echarts.LouisApplication] [logStarting] [55] - Starting LouisApplication using Java 1.8.0_221 on LAPTOP-Louis with PID 6092 (D:\Project\springboot-echarts-demo\springboot-echarts-demo\target\classes started by Louis in D:\Project\springboot-echarts-demo\springboot-echarts-demo)
+[2022-07-10 17:42:01.882] [INFO ] [main] [louis.echarts.LouisApplication] [logStartupProfileInfo] [663] - The following profiles are active: dev
+[2022-07-10 17:42:02.858] [INFO ] [main] [o.s.boot.web.embedded.tomcat.TomcatWebServer] [initialize] [108] - Tomcat initialized with port(s): 4000 (http)
+[2022-07-10 17:42:02.866] [INFO ] [main] [org.apache.coyote.http11.Http11NioProtocol] [log] [173] - Initializing ProtocolHandler ["http-nio-4000"]
+[2022-07-10 17:42:02.867] [INFO ] [main] [org.apache.catalina.core.StandardService] [log] [173] - Starting service [Tomcat]
+[2022-07-10 17:42:02.867] [INFO ] [main] [org.apache.catalina.core.StandardEngine] [log] [173] - Starting Servlet engine: [Apache Tomcat/9.0.54]
+[2022-07-10 17:42:03.070] [INFO ] [main] [o.a.c.c.ContainerBase.[Tomcat].[localhost].[/api]] [log] [173] - Initializing Spring embedded WebApplicationContext
+[2022-07-10 17:42:03.071] [INFO ] [main] [o.s.b.w.s.c.ServletWebServerApplicationContext] [prepareWebApplicationContext] [290] - Root WebApplicationContext: initialization completed in 1128 ms
+[2022-07-10 17:42:03.405] [INFO ] [main] [org.apache.coyote.http11.Http11NioProtocol] [log] [173] - Starting ProtocolHandler ["http-nio-4000"]
+[2022-07-10 17:42:03.445] [INFO ] [main] [o.s.boot.web.embedded.tomcat.TomcatWebServer] [start] [220] - Tomcat started on port(s): 4000 (http) with context path '/api'
+[2022-07-10 17:42:03.453] [INFO ] [main] [louis.echarts.LouisApplication] [logStarted] [61] - Started LouisApplication in 2.256 seconds (JVM running for 3.728)
+[2022-07-10 17:42:03.455] [INFO ] [main] [louis.echarts.config.ApplicationRunnerConfig] [run] [25] - 启动成功，万事顺遂！
+[2022-07-10 17:42:14.886] [INFO ] [SpringApplicationShutdownHook] [louis.echarts.config.ApplicationRunnerConfig] [preDestroy] [31] - 应用停止，欢迎下次使用！
+[2022-07-10 17:42:22.929] [INFO ] [main] [louis.echarts.LouisApplication] [logStarting] [55] - Starting LouisApplication using Java 1.8.0_221 on LAPTOP-Louis with PID 15104 (D:\Project\springboot-echarts-demo\springboot-echarts-demo\target\classes started by Louis in D:\Project\springboot-echarts-demo\springboot-echarts-demo)
+[2022-07-10 17:42:22.933] [INFO ] [main] [louis.echarts.LouisApplication] [logStartupProfileInfo] [663] - The following profiles are active: dev
+[2022-07-10 17:42:23.791] [INFO ] [main] [o.s.boot.web.embedded.tomcat.TomcatWebServer] [initialize] [108] - Tomcat initialized with port(s): 4000 (http)
+[2022-07-10 17:42:23.800] [INFO ] [main] [org.apache.coyote.http11.Http11NioProtocol] [log] [173] - Initializing ProtocolHandler ["http-nio-4000"]
+[2022-07-10 17:42:23.801] [INFO ] [main] [org.apache.catalina.core.StandardService] [log] [173] - Starting service [Tomcat]
+[2022-07-10 17:42:23.801] [INFO ] [main] [org.apache.catalina.core.StandardEngine] [log] [173] - Starting Servlet engine: [Apache Tomcat/9.0.54]
+[2022-07-10 17:42:23.874] [INFO ] [main] [o.a.c.c.ContainerBase.[Tomcat].[localhost].[/api]] [log] [173] - Initializing Spring embedded WebApplicationContext
+[2022-07-10 17:42:23.874] [INFO ] [main] [o.s.b.w.s.c.ServletWebServerApplicationContext] [prepareWebApplicationContext] [290] - Root WebApplicationContext: initialization completed in 896 ms
+[2022-07-10 17:42:24.217] [INFO ] [main] [org.apache.coyote.http11.Http11NioProtocol] [log] [173] - Starting ProtocolHandler ["http-nio-4000"]
+[2022-07-10 17:42:24.232] [INFO ] [main] [o.s.boot.web.embedded.tomcat.TomcatWebServer] [start] [220] - Tomcat started on port(s): 4000 (http) with context path '/api'
+[2022-07-10 17:42:24.241] [INFO ] [main] [louis.echarts.LouisApplication] [logStarted] [61] - Started LouisApplication in 1.794 seconds (JVM running for 2.564)
+[2022-07-10 17:42:24.243] [INFO ] [main] [louis.echarts.config.ApplicationRunnerConfig] [run] [25] - 启动成功，万事顺遂！
+[2022-07-10 17:42:49.229] [INFO ] [SpringApplicationShutdownHook] [louis.echarts.config.ApplicationRunnerConfig] [preDestroy] [31] - 应用停止，欢迎下次使用！
+[2022-07-10 17:42:57.284] [INFO ] [main] [louis.echarts.LouisApplication] [logStarting] [55] - Starting LouisApplication using Java 1.8.0_221 on LAPTOP-Louis with PID 12816 (D:\Project\springboot-echarts-demo\springboot-echarts-demo\target\classes started by Louis in D:\Project\springboot-echarts-demo\springboot-echarts-demo)
+[2022-07-10 17:42:57.287] [INFO ] [main] [louis.echarts.LouisApplication] [logStartupProfileInfo] [663] - The following profiles are active: dev
+[2022-07-10 17:42:58.185] [INFO ] [main] [o.s.boot.web.embedded.tomcat.TomcatWebServer] [initialize] [108] - Tomcat initialized with port(s): 4000 (http)
+[2022-07-10 17:42:58.193] [INFO ] [main] [org.apache.coyote.http11.Http11NioProtocol] [log] [173] - Initializing ProtocolHandler ["http-nio-4000"]
+[2022-07-10 17:42:58.193] [INFO ] [main] [org.apache.catalina.core.StandardService] [log] [173] - Starting service [Tomcat]
+[2022-07-10 17:42:58.194] [INFO ] [main] [org.apache.catalina.core.StandardEngine] [log] [173] - Starting Servlet engine: [Apache Tomcat/9.0.54]
+[2022-07-10 17:42:58.264] [INFO ] [main] [o.a.c.c.ContainerBase.[Tomcat].[localhost].[/api]] [log] [173] - Initializing Spring embedded WebApplicationContext
+[2022-07-10 17:42:58.265] [INFO ] [main] [o.s.b.w.s.c.ServletWebServerApplicationContext] [prepareWebApplicationContext] [290] - Root WebApplicationContext: initialization completed in 928 ms
+[2022-07-10 17:42:58.603] [INFO ] [main] [org.apache.coyote.http11.Http11NioProtocol] [log] [173] - Starting ProtocolHandler ["http-nio-4000"]
+[2022-07-10 17:42:58.618] [INFO ] [main] [o.s.boot.web.embedded.tomcat.TomcatWebServer] [start] [220] - Tomcat started on port(s): 4000 (http) with context path '/api'
+[2022-07-10 17:42:58.627] [INFO ] [main] [louis.echarts.LouisApplication] [logStarted] [61] - Started LouisApplication in 2.027 seconds (JVM running for 2.912)
+[2022-07-10 17:42:58.629] [INFO ] [main] [louis.echarts.config.ApplicationRunnerConfig] [run] [25] - 启动成功，万事顺遂！
+[2022-07-10 17:43:25.826] [INFO ] [SpringApplicationShutdownHook] [louis.echarts.config.ApplicationRunnerConfig] [preDestroy] [31] - 应用停止，欢迎下次使用！
+[2022-07-10 17:43:35.385] [INFO ] [main] [louis.echarts.LouisApplication] [logStarting] [55] - Starting LouisApplication using Java 1.8.0_221 on LAPTOP-Louis with PID 6704 (D:\Project\springboot-echarts-demo\springboot-echarts-demo\target\classes started by Louis in D:\Project\springboot-echarts-demo\springboot-echarts-demo)
+[2022-07-10 17:43:35.388] [INFO ] [main] [louis.echarts.LouisApplication] [logStartupProfileInfo] [663] - The following profiles are active: dev
+[2022-07-10 17:43:36.937] [INFO ] [main] [o.s.boot.web.embedded.tomcat.TomcatWebServer] [initialize] [108] - Tomcat initialized with port(s): 4000 (http)
+[2022-07-10 17:43:36.964] [INFO ] [main] [org.apache.coyote.http11.Http11NioProtocol] [log] [173] - Initializing ProtocolHandler ["http-nio-4000"]
+[2022-07-10 17:43:36.965] [INFO ] [main] [org.apache.catalina.core.StandardService] [log] [173] - Starting service [Tomcat]
+[2022-07-10 17:43:36.966] [INFO ] [main] [org.apache.catalina.core.StandardEngine] [log] [173] - Starting Servlet engine: [Apache Tomcat/9.0.54]
+[2022-07-10 17:43:37.092] [INFO ] [main] [o.a.c.c.ContainerBase.[Tomcat].[localhost].[/api]] [log] [173] - Initializing Spring embedded WebApplicationContext
+[2022-07-10 17:43:37.092] [INFO ] [main] [o.s.b.w.s.c.ServletWebServerApplicationContext] [prepareWebApplicationContext] [290] - Root WebApplicationContext: initialization completed in 1640 ms
+[2022-07-10 17:43:37.582] [INFO ] [main] [org.apache.coyote.http11.Http11NioProtocol] [log] [173] - Starting ProtocolHandler ["http-nio-4000"]
+[2022-07-10 17:43:37.600] [INFO ] [main] [o.s.boot.web.embedded.tomcat.TomcatWebServer] [start] [220] - Tomcat started on port(s): 4000 (http) with context path '/api'
+[2022-07-10 17:43:37.612] [INFO ] [main] [louis.echarts.LouisApplication] [logStarted] [61] - Started LouisApplication in 2.806 seconds (JVM running for 3.729)
+[2022-07-10 17:43:37.614] [INFO ] [main] [louis.echarts.config.ApplicationRunnerConfig] [run] [25] - 启动成功，万事顺遂！
+[2022-07-10 17:43:49.693] [INFO ] [SpringApplicationShutdownHook] [louis.echarts.config.ApplicationRunnerConfig] [preDestroy] [31] - 应用停止，欢迎下次使用！
+[2022-07-10 17:44:03.957] [INFO ] [main] [louis.echarts.LouisApplication] [logStarting] [55] - Starting LouisApplication using Java 1.8.0_221 on LAPTOP-Louis with PID 15148 (D:\Project\springboot-echarts-demo\springboot-echarts-demo\target\classes started by Louis in D:\Project\springboot-echarts-demo\springboot-echarts-demo)
+[2022-07-10 17:44:03.980] [INFO ] [main] [louis.echarts.LouisApplication] [logStartupProfileInfo] [663] - The following profiles are active: dev
+[2022-07-10 17:44:05.008] [INFO ] [main] [o.s.boot.web.embedded.tomcat.TomcatWebServer] [initialize] [108] - Tomcat initialized with port(s): 4000 (http)
+[2022-07-10 17:44:05.016] [INFO ] [main] [org.apache.coyote.http11.Http11NioProtocol] [log] [173] - Initializing ProtocolHandler ["http-nio-4000"]
+[2022-07-10 17:44:05.017] [INFO ] [main] [org.apache.catalina.core.StandardService] [log] [173] - Starting service [Tomcat]
+[2022-07-10 17:44:05.017] [INFO ] [main] [org.apache.catalina.core.StandardEngine] [log] [173] - Starting Servlet engine: [Apache Tomcat/9.0.54]
+[2022-07-10 17:44:05.088] [INFO ] [main] [o.a.c.c.ContainerBase.[Tomcat].[localhost].[/api]] [log] [173] - Initializing Spring embedded WebApplicationContext
+[2022-07-10 17:44:05.088] [INFO ] [main] [o.s.b.w.s.c.ServletWebServerApplicationContext] [prepareWebApplicationContext] [290] - Root WebApplicationContext: initialization completed in 984 ms
+[2022-07-10 17:44:05.431] [INFO ] [main] [org.apache.coyote.http11.Http11NioProtocol] [log] [173] - Starting ProtocolHandler ["http-nio-4000"]
+[2022-07-10 17:44:05.447] [INFO ] [main] [o.s.boot.web.embedded.tomcat.TomcatWebServer] [start] [220] - Tomcat started on port(s): 4000 (http) with context path '/api'
+[2022-07-10 17:44:05.456] [INFO ] [main] [louis.echarts.LouisApplication] [logStarted] [61] - Started LouisApplication in 2.238 seconds (JVM running for 3.193)
+[2022-07-10 17:44:05.458] [INFO ] [main] [louis.echarts.config.ApplicationRunnerConfig] [run] [25] - 启动成功，万事顺遂！
+[2022-07-10 17:44:43.687] [INFO ] [SpringApplicationShutdownHook] [louis.echarts.config.ApplicationRunnerConfig] [preDestroy] [31] - 应用停止，欢迎下次使用！
+[2022-07-10 17:44:54.839] [INFO ] [main] [louis.echarts.LouisApplication] [logStarting] [55] - Starting LouisApplication using Java 1.8.0_221 on LAPTOP-Louis with PID 15176 (D:\Project\springboot-echarts-demo\springboot-echarts-demo\target\classes started by Louis in D:\Project\springboot-echarts-demo\springboot-echarts-demo)
+[2022-07-10 17:44:54.841] [INFO ] [main] [louis.echarts.LouisApplication] [logStartupProfileInfo] [663] - The following profiles are active: dev
+[2022-07-10 17:44:55.586] [INFO ] [main] [o.s.boot.web.embedded.tomcat.TomcatWebServer] [initialize] [108] - Tomcat initialized with port(s): 4000 (http)
+[2022-07-10 17:44:55.594] [INFO ] [main] [org.apache.coyote.http11.Http11NioProtocol] [log] [173] - Initializing ProtocolHandler ["http-nio-4000"]
+[2022-07-10 17:44:55.595] [INFO ] [main] [org.apache.catalina.core.StandardService] [log] [173] - Starting service [Tomcat]
+[2022-07-10 17:44:55.595] [INFO ] [main] [org.apache.catalina.core.StandardEngine] [log] [173] - Starting Servlet engine: [Apache Tomcat/9.0.54]
+[2022-07-10 17:44:55.660] [INFO ] [main] [o.a.c.c.ContainerBase.[Tomcat].[localhost].[/api]] [log] [173] - Initializing Spring embedded WebApplicationContext
+[2022-07-10 17:44:55.660] [INFO ] [main] [o.s.b.w.s.c.ServletWebServerApplicationContext] [prepareWebApplicationContext] [290] - Root WebApplicationContext: initialization completed in 766 ms
+[2022-07-10 17:44:55.978] [INFO ] [main] [org.apache.coyote.http11.Http11NioProtocol] [log] [173] - Starting ProtocolHandler ["http-nio-4000"]
+[2022-07-10 17:44:55.992] [INFO ] [main] [o.s.boot.web.embedded.tomcat.TomcatWebServer] [start] [220] - Tomcat started on port(s): 4000 (http) with context path '/api'
+[2022-07-10 17:44:56.000] [INFO ] [main] [louis.echarts.LouisApplication] [logStarted] [61] - Started LouisApplication in 1.906 seconds (JVM running for 2.742)
+[2022-07-10 17:44:56.001] [INFO ] [main] [louis.echarts.config.ApplicationRunnerConfig] [run] [25] - 启动成功，万事顺遂！
+[2022-07-10 17:45:25.207] [INFO ] [SpringApplicationShutdownHook] [louis.echarts.config.ApplicationRunnerConfig] [preDestroy] [31] - 应用停止，欢迎下次使用！
+[2022-07-10 17:45:35.858] [INFO ] [main] [louis.echarts.LouisApplication] [logStarting] [55] - Starting LouisApplication using Java 1.8.0_221 on LAPTOP-Louis with PID 14756 (D:\Project\springboot-echarts-demo\springboot-echarts-demo\target\classes started by Louis in D:\Project\springboot-echarts-demo\springboot-echarts-demo)
+[2022-07-10 17:45:35.863] [INFO ] [main] [louis.echarts.LouisApplication] [logStartupProfileInfo] [663] - The following profiles are active: dev
+[2022-07-10 17:45:37.884] [INFO ] [main] [o.s.boot.web.embedded.tomcat.TomcatWebServer] [initialize] [108] - Tomcat initialized with port(s): 4000 (http)
+[2022-07-10 17:45:37.896] [INFO ] [main] [org.apache.coyote.http11.Http11NioProtocol] [log] [173] - Initializing ProtocolHandler ["http-nio-4000"]
+[2022-07-10 17:45:37.897] [INFO ] [main] [org.apache.catalina.core.StandardService] [log] [173] - Starting service [Tomcat]
+[2022-07-10 17:45:37.897] [INFO ] [main] [org.apache.catalina.core.StandardEngine] [log] [173] - Starting Servlet engine: [Apache Tomcat/9.0.54]
+[2022-07-10 17:45:37.990] [INFO ] [main] [o.a.c.c.ContainerBase.[Tomcat].[localhost].[/api]] [log] [173] - Initializing Spring embedded WebApplicationContext
+[2022-07-10 17:45:37.991] [INFO ] [main] [o.s.b.w.s.c.ServletWebServerApplicationContext] [prepareWebApplicationContext] [290] - Root WebApplicationContext: initialization completed in 2001 ms
+[2022-07-10 17:45:38.430] [INFO ] [main] [org.apache.coyote.http11.Http11NioProtocol] [log] [173] - Starting ProtocolHandler ["http-nio-4000"]
+[2022-07-10 17:45:38.454] [INFO ] [main] [o.s.boot.web.embedded.tomcat.TomcatWebServer] [start] [220] - Tomcat started on port(s): 4000 (http) with context path '/api'
+[2022-07-10 17:45:38.467] [INFO ] [main] [louis.echarts.LouisApplication] [logStarted] [61] - Started LouisApplication in 4.279 seconds (JVM running for 5.204)
+[2022-07-10 17:45:38.471] [INFO ] [main] [louis.echarts.config.ApplicationRunnerConfig] [run] [25] - 启动成功，万事顺遂！
+[2022-07-10 17:45:55.602] [INFO ] [SpringApplicationShutdownHook] [louis.echarts.config.ApplicationRunnerConfig] [preDestroy] [31] - 应用停止，欢迎下次使用！
+[2022-07-10 17:46:10.725] [INFO ] [main] [louis.echarts.LouisApplication] [logStarting] [55] - Starting LouisApplication using Java 1.8.0_221 on LAPTOP-Louis with PID 12496 (D:\Project\springboot-echarts-demo\springboot-echarts-demo\target\classes started by Louis in D:\Project\springboot-echarts-demo\springboot-echarts-demo)
+[2022-07-10 17:46:10.738] [INFO ] [main] [louis.echarts.LouisApplication] [logStartupProfileInfo] [663] - The following profiles are active: dev
+[2022-07-10 17:46:12.777] [INFO ] [main] [o.s.boot.web.embedded.tomcat.TomcatWebServer] [initialize] [108] - Tomcat initialized with port(s): 4000 (http)
+[2022-07-10 17:46:12.800] [INFO ] [main] [org.apache.coyote.http11.Http11NioProtocol] [log] [173] - Initializing ProtocolHandler ["http-nio-4000"]
+[2022-07-10 17:46:12.801] [INFO ] [main] [org.apache.catalina.core.StandardService] [log] [173] - Starting service [Tomcat]
+[2022-07-10 17:46:12.802] [INFO ] [main] [org.apache.catalina.core.StandardEngine] [log] [173] - Starting Servlet engine: [Apache Tomcat/9.0.54]
+[2022-07-10 17:46:12.952] [INFO ] [main] [o.a.c.c.ContainerBase.[Tomcat].[localhost].[/api]] [log] [173] - Initializing Spring embedded WebApplicationContext
+[2022-07-10 17:46:12.952] [INFO ] [main] [o.s.b.w.s.c.ServletWebServerApplicationContext] [prepareWebApplicationContext] [290] - Root WebApplicationContext: initialization completed in 2089 ms
+[2022-07-10 17:46:13.785] [INFO ] [main] [org.apache.coyote.http11.Http11NioProtocol] [log] [173] - Starting ProtocolHandler ["http-nio-4000"]
+[2022-07-10 17:46:13.823] [INFO ] [main] [o.s.boot.web.embedded.tomcat.TomcatWebServer] [start] [220] - Tomcat started on port(s): 4000 (http) with context path '/api'
+[2022-07-10 17:46:13.843] [INFO ] [main] [louis.echarts.LouisApplication] [logStarted] [61] - Started LouisApplication in 4.346 seconds (JVM running for 6.282)
+[2022-07-10 17:46:13.846] [INFO ] [main] [louis.echarts.config.ApplicationRunnerConfig] [run] [25] - 启动成功，万事顺遂！
